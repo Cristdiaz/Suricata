@@ -1,0 +1,82 @@
+
+.navbar {
+    background-color: #E83E8C;
+    font-family: 'Open Sans', sans-serif;
+    height: 75;
+}
+/* el color de fondo 
+la familia de fuente cuyo nombre sacamos de Google Fonts
+el alto del navbar */
+
+.img-suricata {
+    width: 132;
+    height: 53pt;
+    padding-left: 119px;
+    margin-top: 12px;
+    opacity: 1;
+}
+/* width es el ancho de la imagen,
+height es el alto de la imagen, 
+padding-left es el margen del lado izquierdo,
+margin-top es el margen que hay arriba,
+la opacidad */
+
+
+.titulo {
+    font-weight: strong;
+    font-size: 60px;
+    color: #707070;
+}
+/* font-weight es el estilo de la fuente,
+font-size es el tamaño de la fuente,
+el color */
+
+.nav-link {
+    font-size: 16px;
+}
+
+
+.card-title {
+    font-size: 17px;
+    color: #373A3C;
+    align-items: left;
+}
+/* align-items es la alineación del título de las card */
+
+.card-text {
+    color: #373A3C;
+    font-size: 16px;
+    text-align: justify;
+}
+/* text-align justify es para cuadrar el texto */
+
+.list-group-item {
+    color: #373A3C;
+    font-size: 11px;
+}
+
+.card-link {
+    font-size: 11px;
+    color: #1C7CD5;
+}
+
+.medios {
+    background-color: #17A2B8;
+}
+
+.fs-6 {
+    font-size:18rem;
+}
+
+
+footer {
+    background-color: #E83E8C;
+    text-align: center;
+}
+
+ .suri {
+    width: 40px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+/* margin-bottom es el margen que va debajo */
